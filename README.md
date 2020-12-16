@@ -1,2 +1,2 @@
-# OLP-ICPC
-Code for fun
+# CODE OLP - ICPC 2019
+
